@@ -96,7 +96,7 @@ exploring emerging technologies and solving real-world problems through code.
 
 **REPOSITORIES**
 
-<img src="https://img.shields.io/github/repos/deben2003?style=flat&logo=github&label=Public&color=238636"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdeben2003&query=%24.public_repos&label=Repositories&color=238636&style=flat" />
 
 </td>
 <td align="center" width="25%">
