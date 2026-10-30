@@ -161,30 +161,44 @@ exploring emerging technologies and solving real-world problems through code.
 
 ### 📈 GitHub Statistics
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deben2003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github" width="100%"/>
+<!-- GitHub Statistics -->
+<img
+  src="https://github-stats-extended.vercel.app/api?username=deben2003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github"
+  width="100%"
+  alt="GitHub Statistics"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=deben2003&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%"/>
+<!-- GitHub Contribution Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=deben2003&theme=github-dark-blue&hide_border=true&background=0D1117"
+  width="100%"
+  alt="GitHub Streak"
+/>
 
 </div>
+
 
 ---
 
 ### 🏆 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deben2003&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deben2003&theme=github_dark"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ### 🐍 Contribution Snake
