@@ -151,8 +151,12 @@ exploring emerging technologies and solving real-world problems through code.
 
 #### Language Distribution
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deben2003&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%"/>
 
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deben2003&theme=github_dark"
+  width="100%"
+  alt="Language Distribution"
+/>
 </td>
 </tr>
 </table>
